@@ -1,0 +1,6 @@
+PRD
+1) The user shall provide the address he wants to travel.
+2) The system shall compute the best travell route considering
+	1) Distance
+	2) Safety of the travel
+	3) Avoiding toll route
